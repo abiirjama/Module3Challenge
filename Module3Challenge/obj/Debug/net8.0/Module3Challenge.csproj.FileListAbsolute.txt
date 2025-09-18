@@ -1,0 +1,15 @@
+/workspaces/Module3Challenge/Module3Challenge/bin/Debug/net8.0/Module3Challenge
+/workspaces/Module3Challenge/Module3Challenge/bin/Debug/net8.0/Module3Challenge.deps.json
+/workspaces/Module3Challenge/Module3Challenge/bin/Debug/net8.0/Module3Challenge.runtimeconfig.json
+/workspaces/Module3Challenge/Module3Challenge/bin/Debug/net8.0/Module3Challenge.dll
+/workspaces/Module3Challenge/Module3Challenge/bin/Debug/net8.0/Module3Challenge.pdb
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.AssemblyInfoInputs.cache
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.AssemblyInfo.cs
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.csproj.CoreCompileInputs.cache
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.sourcelink.json
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.dll
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/refint/Module3Challenge.dll
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.pdb
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/Module3Challenge.genruntimeconfig.cache
+/workspaces/Module3Challenge/Module3Challenge/obj/Debug/net8.0/ref/Module3Challenge.dll
